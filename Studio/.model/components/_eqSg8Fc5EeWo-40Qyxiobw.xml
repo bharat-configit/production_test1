@@ -18,6 +18,13 @@
       <typeSet uuid="_JuIewiGNEeqLGIjIKNEXjQ" bitSet="393231"/>
     </domain>
   </variables>
+  <variables xsi:type="comp:DeclaredVariable" uuid="_-xS2YCGPEeqQvfDHxGloLw"
+      name="Variable2" visibility="800">
+    <domain uuid="_-xS2YSGPEeqQvfDHxGloLw" name="local"
+        visibility="300">
+      <typeSet uuid="_-xS2YiGPEeqQvfDHxGloLw" bitSet="393231"/>
+    </domain>
+  </variables>
   <cursorTwoD uuid="_WWlTcFc7EeWo-40Qyxiobw" name="Cursor2"
       twoDElementsColor="_-LmWIFc6EeWo-40Qyxiobw _GOiR0Fc7EeWo-40Qyxiobw">
     <onColor href="../product_model.xml#N65557"/>
