@@ -19,6 +19,20 @@
       <typeSet uuid="_GC-J0qTqEea8d6P1JTl01w" bitSet="10"/>
     </domain>
   </variables>
+  <variables xsi:type="comp:DeclaredVariable" uuid="_StV1cCGNEeqLGIjIKNEXjQ"
+      name="Variable" visibility="800">
+    <domain uuid="_StV1cSGNEeqLGIjIKNEXjQ" name="local"
+        visibility="300">
+      <typeSet uuid="_StV1ciGNEeqLGIjIKNEXjQ" bitSet="393231"/>
+    </domain>
+  </variables>
+  <variables xsi:type="comp:DeclaredVariable" uuid="_TDC_sCGNEeqLGIjIKNEXjQ"
+      name="Variable1" visibility="800">
+    <domain uuid="_TDC_sSGNEeqLGIjIKNEXjQ" name="local"
+        visibility="300">
+      <typeSet uuid="_TDC_siGNEeqLGIjIKNEXjQ" bitSet="393231"/>
+    </domain>
+  </variables>
   <cursorTwoD uuid="_5hDdIFc7EeWo-40Qyxiobw" name="Cursor3"
       twoDElementsColor="_c3-j4Fc7EeWo-40Qyxiobw _f9pUUFc7EeWo-40Qyxiobw">
     <facets xsi:type="comp:CursorTwoDViewpointFacet"
